@@ -1,0 +1,32 @@
+hr {
+	width: 60px;
+	margin-left: 0px;
+	border-color: black;
+}
+.linea1{
+	position: absolute;
+	top:90px;
+}
+
+.linea2{
+	position: relative;
+	top:250px;
+}
+
+
+.l1{
+	float: left;
+	margin-left: 20px;
+}
+
+.l2{
+	float: left;
+	margin-left: 20px;
+}
+
+p {
+	position: absolute;
+	color: white;
+	margin-top: -27px;
+	margin-left: 80px;
+}
